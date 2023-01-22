@@ -10,7 +10,7 @@ Your task is to create a command-line application that dynamically generates a p
 
 The application will be invoked by using the following command:
 
-```bash
+```bash 
 node index.js
 ```
 
